@@ -24,7 +24,7 @@
                      <a href="" class="social-icon"><img src="<?php bloginfo('template_url'); ?>/img/icons/instagram-icon.png" alt="instagram icon"></a>
                   </div>
 
-                  <nav id="mainNav" class="main-nav padding40-0" role="navigation">
+                  <nav id="mainNav" class="main-nav" role="navigation">
      	               <?php wp_nav_menu( array( 'theme_location' => 'header-menu', 'container' => '' ) ); ?>
      	            </nav>
 
